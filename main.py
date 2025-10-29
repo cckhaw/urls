@@ -15,7 +15,7 @@ def main():
     os.mkdir('dist')
 
     with open('dist/CNAME', 'w') as f:
-        f.write('cckhaw.github.io/urls')
+        f.write('s.khaw.cc')
 
     for link in links:
         html_document = html.format(url=link['url'])
