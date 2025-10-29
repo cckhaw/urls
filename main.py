@@ -6,7 +6,7 @@ import shutil
 
 def main():
     """Main Function"""
-    html = '<html><title>khaw.cc</title><head><meta http-equiv="refresh" content="0;url={url}" /></head></html>'
+    html = '<html><head><title>~ khaw.cc ~</title><meta http-equiv="refresh" content="0;url={url}" /></head></html>'
 
     with open('links.json') as f:
         links = json.load(f)
