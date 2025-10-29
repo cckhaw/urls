@@ -1,5 +1,3 @@
 # url-shortener
 
-My free URL shortener hack.
-
-Read more about it on s.khaw.cc
+My free URL shortener, a quick hack using GitHub Page feature.
